@@ -1,0 +1,1277 @@
+: 1706814179:0;git commit --amend
+: 1706814179:0;git push --force
+: 1706814179:0;git stash
+: 1706814179:0;git switch bugfix/minor_bugs
+: 1706814179:0;git stash pop
+: 1706814179:0;git push
+: 1706814179:0;git switch feature/add_facility_access
+: 1706814179:0;git branch --sort=-committerdate
+: 1706814179:0;git switch bugfix/hot_fixes
+: 1706814179:0;git cherry-pick a37d9c
+: 1706814179:0;git cherry-pick --continue
+: 1706814179:0;git cherry-pick --skip
+: 1706814179:0;git lol
+: 1706814179:0;git cherry-pick a37d9c7
+: 1706814179:0;git cherry-pick --skip
+: 1706814179:0;git cherry-pick a37d9c72
+: 1706814179:0;git cherry-pick --continue
+: 1706814179:0;git cherry-pick --skip
+: 1706814179:0;git switch bugfix/minor_bugs
+: 1706814179:0;git lol
+: 1706814179:0;git switch bugfix/hot_fixes
+: 1706814179:0;git cherry-pick 705919fe
+: 1706814179:0;git push
+: 1706814179:0;git switch feature/add_facility_access
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-3-82-145-105.compute-1.amazonaws.com
+: 1706814179:0;c
+: 1706814179:0;git switch bugfix/minor_bugs
+: 1706814179:0;git switch feature/add_facility_access
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;git push
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-44-211-201-248.compute-1.amazonaws.com
+: 1706814179:0;git push
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-44-211-201-248.compute-1.amazonaws.com
+: 1706814179:0;c
+: 1706814179:0;pg_ctl -D /usr/local/var/postgres start
+: 1706814179:0;c
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;c
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;c
+: 1706814179:0;python manage.py makemigrations
+: 1706814179:0;python manage.py migrate
+: 1706814179:0;python manage.py showmigrations
+: 1706814179:0;python manage.py migrate firstchoice 0348*
+: 1706814179:0;python manage.py migrate firstchoice 0348_staffing_facility_comment
+: 1706814179:0;python manage.py makemigrations
+: 1706814179:0;python manage.py migrate
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;/Users/home/nyckolas/firstchoice-web/venv/bin/python
+: 1706814179:0;c
+: 1706814179:0;git commit --amend
+: 1706814179:0;c
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;c
+: 1706814179:0;pg_ctl -D /usr/local/var/postgres start
+: 1706814179:0;c
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;git push
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-44-211-201-248.compute-1.amazonaws.com
+: 1706814179:0;git push
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-44-211-201-248.compute-1.amazonaws.com
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;git push
+: 1706814179:0;с
+: 1706814179:0;c
+: 1706814179:0;pg_ctl -D /usr/local/var/postgres start
+: 1706814179:0;c
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;git commit --amend
+: 1706814179:0;c
+: 1706814179:0;git push
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-44-211-201-248.compute-1.amazonaws.com
+: 1706814179:0;c
+: 1706814179:0;с
+: 1706814179:0;c
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;pg_ctl -D /usr/local/var/postgres start
+: 1706814179:0;c
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;c
+: 1706814179:0;git push
+: 1706814179:0;git commit --amend
+: 1706814179:0;git push --force
+: 1706814179:0;pg_ctl -D /usr/local/var/postgres start
+: 1706814179:0;c
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;c
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;c
+: 1706814179:0;git push
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-44-211-201-248.compute-1.amazonaws.com
+: 1706814179:0;с
+: 1706814179:0;c
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-44-211-201-248.compute-1.amazonaws.com
+: 1706814179:0;c
+: 1706814179:0;git push
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-44-211-201-248.compute-1.amazonaws.com
+: 1706814179:0;pg_ctl -D /usr/local/var/postgres start
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;pg_ctl -D /usr/local/var/postgres start
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;git push
+: 1706814179:0;c
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-44-211-201-248.compute-1.amazonaws.com
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;git pull
+: 1706814179:0;git pull origin nightingale_master
+: 1706814179:0;git push
+: 1706814179:0;git push --force
+: 1706814179:0;git switch nightingale_staging
+: 1706814179:0;git pull origin nightingale_master
+: 1706814179:0;git push --force
+: 1706814179:0;git switch feature/add_facility_access
+: 1706814179:0;git rebase nightingale_dev
+: 1706814179:0;git push --force
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-3-82-145-105.compute-1.amazonaws.com
+: 1706814179:0;git switch nightingale_dev
+: 1706814179:0;git pull
+: 1706814179:0;git pull origin nightingale_staging
+: 1706814179:0;c
+: 1706814179:0;git push --force
+: 1706814179:0;git switch nightingale_staging
+: 1706814179:0;git pull
+: 1706814179:0;git rebase nightingale_master
+: 1706814179:0;git push --force
+: 1706814179:0;git pull
+: 1706814179:0;git pull origin nightingale_master
+: 1706814179:0;git push --force
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-3-82-145-105.compute-1.amazonaws.com
+: 1706814179:0;c
+: 1706814179:0;git switch feature/add_facility_access
+: 1706814179:0;git lol
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;c
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;pg_ctl -D /usr/local/var/postgres start
+: 1706814179:0;c
+: 1706814179:0;git stash
+: 1706814179:0;git switch bugfix/minor_bugs
+: 1706814179:0;git pull
+: 1706814179:0;git rebase nightingale_dev
+: 1706814179:0;git push
+: 1706814179:0;git push --force
+: 1706814179:0;git stash pop
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;pg_ctl -D /usr/local/var/postgres start
+: 1706814179:0;c
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;c
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-3-82-145-105.compute-1.amazonaws.com
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;git push
+: 1706814179:0;git switch nightingale_dev
+: 1706814179:0;git lol
+: 1706814179:0;git rebase nightingale_staging
+: 1706814179:0;git push --force
+: 1706814179:0;git switch bugfix/minor_bugs
+: 1706814179:0;git rebase nightingale_dev
+: 1706814179:0;git push --force
+: 1706814179:0;git switch nightingale_staging
+: 1706814179:0;git rebase nightingale_master
+: 1706814179:0;git pull origin nightingale_staging
+: 1706814179:0;git rebase nightingale_master
+: 1706814179:0;git push --force
+: 1706814179:0;git pull origin nightingale_master
+: 1706814179:0;git pull origin nightingale_staging
+: 1706814179:0;git lol
+: 1706814179:0;git pull
+: 1706814179:0;git switch nightingale_dev
+: 1706814179:0;git pull
+: 1706814179:0;git switch nightingale_master
+: 1706814179:0;git pull
+: 1706814179:0;git switch nightingale_staging
+: 1706814179:0;git rebase nightingale_master
+: 1706814179:0;git push --force
+: 1706814179:0;git commit --amend
+: 1706814179:0;c
+: 1706814179:0;git reset --soft HEAD^1
+: 1706814179:0;git stash
+: 1706814179:0;git switch bugfix/minor_bugs
+: 1706814179:0;git stash pop
+: 1706814179:0;git switch nightingale_staging
+: 1706814179:0;git reset --soft HEAD^1
+: 1706814179:0;git stash
+: 1706814179:0;git switch bugfix/minor_bugs
+: 1706814179:0;git stash pop
+: 1706814179:0;c
+: 1706814179:0;git pull
+: 1706814179:0;git switch 
+: 1706814179:0;git switch nightingale_dev
+: 1706814179:0;git pull
+: 1706814179:0;git rebase nightingale_staging
+: 1706814179:0;git push --force
+: 1706814179:0;git switch bugfix/minor_bugs
+: 1706814179:0;git rebase nightingale_dev
+: 1706814179:0;git push --force
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-3-82-145-105.compute-1.amazonaws.com
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-44-211-201-248.compute-1.amazonaws.com
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-3-82-145-105.compute-1.amazonaws.com
+: 1706814179:0;git pull
+: 1706814179:0;git switch nightingale_staging
+: 1706814179:0;git lol
+: 1706814179:0;git switch nightingale_master
+: 1706814179:0;git pull
+: 1706814179:0;git switch nightingale_staging
+: 1706814179:0;git pull
+: 1706814179:0;git switch nightingale_dev
+: 1706814179:0;git pull
+: 1706814179:0;git switch nightingale_staging
+: 1706814179:0;git lol
+: 1706814179:0;git switch nightingale_master
+: 1706814179:0;git lol
+: 1706814179:0;c
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-44-211-201-248.compute-1.amazonaws.com
+: 1706814179:0;c
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;git lol
+: 1706814179:0;git switch bugfix/minor_bugs.
+: 1706814179:0;git switch bugfix/minor_bugs
+: 1706814179:0;git rebase nightingale_dev
+: 1706814179:0;git push
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-3-82-145-105.compute-1.amazonaws.com
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-44-211-201-248.compute-1.amazonaws.com
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-3-82-145-105.compute-1.amazonaws.com
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;ssh andrew@firstchoicenurses.com
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;scp andrew@firstchoicenurses.com:/home/andrew/backup_db.sh ~/nyckolas/firstchoice-web/
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-3-82-145-105.compute-1.amazonaws.com
+: 1706814179:0;c
+: 1706814179:0;ls -lha
+: 1706814179:0;scp -i ./backup_db.sh "~/.ssh/nightingale-key.pem" ubuntu@ec2-3-82-145-105.compute-1.amazonaws.com:/firstchoice-web/
+: 1706814179:0;scp -i "~/.ssh/nightingale-key.pem" ./backup_db.sh ubuntu@ec2-3-82-145-105.compute-1.amazonaws.com:/
+: 1706814179:0;scp -i ~/.ssh/nightingale-key.pem ./backup_db.sh ubuntu@ec2-3-82-145-105.compute-1.amazonaws.com:/home/ubuntu/
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-3-82-145-105.compute-1.amazonaws.com
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;ssh andrew@firstchoicenurses.com
+: 1706814179:0;c
+: 1706814179:0;ls -lha ~/nyckolas/
+: 1706814179:0;cp ./backup_db.sh ~/nyckolas/django-essential/
+: 1706814179:0;ls -lha ~/nyckolas/django-essential/
+: 1706814179:0;tail -n 10 ~/nyckolas/django-essential/
+: 1706814179:0;tail ~/nyckolas/django-essential/
+: 1706814179:0;tail -n 10 ~/nyckolas/django-essential/backup_db.sh
+: 1706814179:0;с
+: 1706814179:0;c
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-3-82-145-105.compute-1.amazonaws.com
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-3-82-145-105.compute-1.amazonaws.com
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;pg_ctl -D /usr/local/var/postgres start
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-3-82-145-105.compute-1.amazonaws.com
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;git pull
+: 1706814179:0;git push
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;c
+: 1706814179:0;git push
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-44-211-201-248.compute-1.amazonaws.com
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-3-82-145-105.compute-1.amazonaws.com
+: 1706814179:0;scp -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-3-82-145-105.compute-1.amazonaws.com:/var/www/firstchoice-web/firstchoice/root_logging/logs/main.log .
+: 1706814179:0;ls -lha /Users/home/nyckolas/firstchoice-web/firstchoice/root_logging/logs/
+: 1706814179:0;ls -lha /Users/home/nyckolas/firstchoice-web/
+: 1706814179:0;c
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;python manage.py shell
+: 1706814179:0;c
+: 1706814179:0;git branch --sort=-committerdate
+: 1706814179:0;git switch nightingale_dev
+: 1706814179:0;git pull
+: 1706814179:0;git checkout -b feature/profiling
+: 1706814179:0;pip install django-silk
+: 1706814179:0;pip install --upgrade pip
+: 1706814179:0;pip install -r requirements.txt
+: 1706814179:0;pip list --format=freeze
+: 1706814179:0;pip install --upgrade pip
+: 1706814179:0;pip install django-silk Django==2.2.24
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;pip install --upgrade pip
+: 1706814179:0;pg_ctl -D /usr/local/var/postgres start
+: 1706814179:0;python manage.py migrate
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;pg_ctl -D /usr/local/var/postgres start
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;/Users/home/nyckolas/firstchoice-web/venv/bin/python
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;/Users/home/nyckolas/firstchoice-web/venv/bin/python
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;pg_ctl -D /usr/local/var/postgres start
+: 1706814179:0;c
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;pg_ctl -D /usr/local/var/postgres start
+: 1706814179:0;git stash
+: 1706814179:0;git switch nightingale_dev
+: 1706814179:0;git pull
+: 1706814179:0;git switch bugfix/minor_bugs
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;/Users/home/nyckolas/firstchoice-web/venv/bin/python
+: 1706814179:0;git push
+: 1706814179:0;git pull
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-44-211-201-248.compute-1.amazonaws.com
+: 1706814179:0;git branch --sort=-committerdate
+: 1706814179:0;git switch feature/profiling
+: 1706814179:0;git stash pop
+: 1706814179:0;git switch bugfix/minor_bugs
+: 1706814179:0;git stash
+: 1706814179:0;git switch bugfix/minor_bugs
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-3-82-145-105.compute-1.amazonaws.com
+: 1706814179:0;git switch feature/profiling
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;pg_ctl -D /usr/local/var/postgres start
+: 1706814179:0;git stash pop
+: 1706814179:0;git stash
+: 1706814179:0;so
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;c
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-3-82-145-105.compute-1.amazonaws.com
+: 1706814179:0;git switch nightingale_dev
+: 1706814179:0;git pull
+: 1706814179:0;pg_ctl -D /usr/local/var/postgres start
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;git checkout -b feature/s3
+: 1706814179:0;pip install boto3,
+: 1706814179:0;pip install boto3
+: 1706814179:0;pip3 install --upgrade pip
+: 1706814179:0;boto3
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;pip install boto3
+: 1706814179:0;deactivate
+: 1706814179:0;brew install awscli
+: 1706814179:0;aws configure
+: 1706814179:0;sudo aws configure
+: 1706814179:0;sudo rm /Users/home/.aws
+: 1706814179:0;sudo aws configure
+: 1706814179:0;aws s3 ls
+: 1706814179:0;aws configure
+: 1706814179:0;aws s3 ls
+: 1706814179:0;rm /Users/home/.aws/credentials
+: 1706814179:0;sudo rm /Users/home/.aws/credentials
+: 1706814179:0;aws configure
+: 1706814179:0;ls -lsa /Users/home/.aws
+: 1706814179:0;ls -lsa /Users/home/.aws/config
+: 1706814179:0;sudo rm -rf /Users/home/.aws
+: 1706814179:0;ls -lsa /Users/home/.aws
+: 1706814179:0;ls -lsa /Users/home
+: 1706814179:0;aws configure
+: 1706814179:0;aws
+: 1706814179:0;aws help
+: 1706814179:0;aws s3 ls
+: 1706814179:0;aws s3 ls nyckolas
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;pip install django-storages
+: 1706814179:0;pip install django-storages, django==2.2.24
+: 1706814179:0;pip install django-storages django==2.2.24
+: 1706814179:0;python manage.py collectstatic
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;pg_ctl -D /usr/local/var/postgres start
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;aws s3 ls nyckolas
+: 1706814179:0;aws s3 ls
+: 1706814179:0;aws s3 ls nyckolas
+: 1706814179:0;pg_ctl -D /usr/local/var/postgres start
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;pip freeze
+: 1706814179:0;c
+: 1706814179:0;pg_ctl -D /usr/local/var/postgres start
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;pip install awscli --upgrade --user
+: 1706814179:0;aws s3 sync /Users/home/nyckolas/firstchoice-web/firstchoice/uploads s3://arn:aws:s3:us-east-1:177881629851:accesspoint/nyckolas-s3
+: 1706814179:0;aws s3 sync /Users/home/nyckolas/firstchoice-web/firstchoice/uploads s3://nyckolas
+: 1706814179:0;aws s3 sync /Users/home/nyckolas/firstchoice-web/firstchoice/uploads s3://nyckolas/nyckolas
+: 1706814179:0;pip install awscli
+: 1706814179:0;pip list --format=freeze
+: 1706814179:0;c
+: 1706814179:0;pip install uninstall awscli
+: 1706814179:0;pip install uninstall awscli==1.29.85
+: 1706814179:0;pip uninstall awscli==1.29.85
+: 1706814179:0;pip install awscli
+: 1706814179:0;pip install django-storages==1.12.3 Django==2.2.24
+: 1706814179:0;pip un install django-storages==1.12.3
+: 1706814179:0;pip uninstall django-storages==1.12.3
+: 1706814179:0;pip install django-storages==1.12.3 Django==2.2.24
+: 1706814179:0;git rebase nightingale_dev
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-44-211-201-248.compute-1.amazonaws.com
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;git push
+: 1706814179:0;git push --set-upstream origin feature/s3
+: 1706814179:0;git lol
+: 1706814179:0;git rebase --interactive 7d874814^
+: 1706814179:0;git push --force
+: 1706814179:0;c
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-44-211-201-248.compute-1.amazonaws.com
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;git push
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-54-226-76-178.compute-1.amazonaws.com
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;pip install awscli --upgrade --user
+: 1706814179:0;pg_ctl -D /usr/local/var/postgres start
+: 1706814179:0;c
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;git commit --amend
+: 1706814179:0;git push
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-44-211-201-248.compute-1.amazonaws.com
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-54-226-76-178.compute-1.amazonaws.com
+: 1706814179:0;c
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;git switch nightingale_dev
+: 1706814179:0;git checkout -b feature/master_calendar
+: 1706814179:0;pg_ctl -D /usr/local/var/postgres start
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;c
+: 1706814179:0;git push
+: 1706814179:0;git push --set-upstream origin feature/master_calendar
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-44-211-201-248.compute-1.amazonaws.com
+: 1706814179:0;c
+: 1706814179:0;git switch nightingale_dev
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;pg_ctl -D /usr/local/var/postgres start
+: 1706814179:0;c
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;git stash
+: 1706814179:0;git checkout -b feature/invoice_comments
+: 1706814179:0;git stash pop
+: 1706814179:0;python manage.py makemigrations
+: 1706814179:0;python manage.py migrate
+: 1706814179:0;c
+: 1706814179:0;git lol
+: 1706814179:0;git commit --amend
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;git branch --sort=-committerdate
+: 1706814179:0;git switch feature/master_calendar
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;pg_ctl -D /usr/local/var/postgres start
+: 1706814179:0;c
+: 1706814179:0;git push
+: 1706814179:0;git branch --sort=-committerdate
+: 1706814179:0;git switch feature/invoice_comments
+: 1706814179:0;git push
+: 1706814179:0;git push --set-upstream origin feature/invoice_comments
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-44-211-201-248.compute-1.amazonaws.com
+: 1706814179:0;git switch feature/s3
+: 1706814179:0;c
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;pg_ctl -D /usr/local/var/postgres start
+: 1706814179:0;c
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;git branch --sort=-committerdate
+: 1706814179:0;git switch bugfix/hot_fixes
+: 1706814179:0;c
+: 1706814179:0;git rebase nightingale_master
+: 1706814179:0;git switch feature/master_calendar
+: 1706814179:0;git lol
+: 1706814179:0;c
+: 1706814179:0;git switch bugfix/hot_fixes
+: 1706814179:0;git lol
+: 1706814179:0;git cherry-pick cc925ab2 2501503f
+: 1706814179:0;git push
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-3-82-145-105.compute-1.amazonaws.com
+: 1706814179:0;git switch feature/s3
+: 1706814179:0;git push
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-44-211-201-248.compute-1.amazonaws.com
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;git switch feature/invoice_comments
+: 1706814179:0;pg_ctl -D /usr/local/var/postgres start
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;git push
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-44-211-201-248.compute-1.amazonaws.com
+: 1706814179:0;git switch feature/s3
+: 1706814179:0;git push
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-44-211-201-248.compute-1.amazonaws.com
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;pg_ctl -D /usr/local/var/postgres start
+: 1706814179:0;git switch nightingale_master
+: 1706814179:0;git pull
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;git stash
+: 1706814179:0;git switch nightingale_dev
+: 1706814179:0;git pull
+: 1706814179:0;git branch --sort=-committerdate
+: 1706814179:0;git switch bugfix/minor_bugs
+: 1706814179:0;git stash pop
+: 1706814179:0;git lol
+: 1706814179:0;git switch bugfix/hot_fixes
+: 1706814179:0;git cherry-pick 8f7fce2b cb20d149
+: 1706814179:0;git cherry-pick --continue
+: 1706814179:0;git push
+: 1706814179:0;git switch bugfix/minor_bugs
+: 1706814179:0;git push
+: 1706814179:0;git switch nightingale_master
+: 1706814179:0;git switch bugfix/hot_fixes
+: 1706814179:0;git rebase nightingale_master
+: 1706814179:0;git rebase --continue
+: 1706814179:0;c
+: 1706814179:0;git push --force
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-44-211-201-248.compute-1.amazonaws.com
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-3-82-145-105.compute-1.amazonaws.com
+: 1706814179:0;c
+: 1706814179:0;git switch bugfix/minor_bugs
+: 1706814179:0;scp -i ~/.ssh/nightingale-key.pem ./debug.log ubuntu@ec2-3-82-145-105.compute-1.amazonaws.com:/var/www/firstchoice-web/debug.log
+: 1706814179:0;pg_ctl -D /usr/local/var/postgres start
+: 1706814179:0;git stash
+: 1706814179:0;git switch nightingale_dev
+: 1706814179:0;git pull
+: 1706814179:0;git checkout -b feature/cancelled_card
+: 1706814179:0;git stash pop
+: 1706814179:0;git push
+: 1706814179:0;git push --set-upstream origin feature/cancelled_card
+: 1706814179:0;git push
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-44-211-201-248.compute-1.amazonaws.com
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;pg_ctl -D /usr/local/var/postgres start
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;git switch nightingale_dev
+: 1706814179:0;git branch --sort=-committerdate
+: 1706814179:0;git switch feature/add_facility_access
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;pg_ctl -D /usr/local/var/postgres start
+: 1706814179:0;python manage.py makemigrations
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;python manage.py migrate
+: 1706814179:0;c
+: 1706814179:0;git push
+: 1706814179:0;git branch --sort=-committerdate
+: 1706814179:0;git switch feature/cancelled_card
+: 1706814179:0;git push
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-3-82-145-105.compute-1.amazonaws.com
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;pg_ctl -D /usr/local/var/postgres start
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;git stash
+: 1706814179:0;git switch nightingale_dev
+: 1706814179:0;git switch nightingale_master
+: 1706814179:0;git pull
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;pg_ctl -D /usr/local/var/postgres start
+: 1706814179:0;git stash
+: 1706814179:0;git branch --sort=-committerdate
+: 1706814179:0;git switch bugfix/minor_bugs
+: 1706814179:0;git stash list
+: 1706814179:0;git stash apply stash@{0}
+: 1706814179:0;git push
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-44-211-201-248.compute-1.amazonaws.com
+: 1706814179:0;git branch --sort=-committerdate
+: 1706814179:0;git switch feature/cancelled_card
+: 1706814179:0;git stash list
+: 1706814179:0;git stash apply stash@{1}
+: 1706814179:0;git stah
+: 1706814179:0;git stash
+: 1706814179:0;git stash pop
+: 1706814179:0;pg_ctl -D /usr/local/var/postgres start
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;end_date = None
+: 1706814179:0;/Users/home/nyckolas/firstchoice-web/venv/bin/python
+: 1706814179:0;git stash
+: 1706814179:0;git stash pop
+: 1706814179:0;pg_ctl -D /usr/local/var/postgres start
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;git push
+: 1706814179:0;git branch --sort=-committerdate
+: 1706814179:0;git switch feature/add_facility_access
+: 1706814179:0;git rebase nightingale_dev
+: 1706814179:0;git push --force
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-44-211-201-248.compute-1.amazonaws.com
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;git switch nightingale_dev
+: 1706814179:0;git pull
+: 1706814179:0;python manage.py migrate
+: 1706814179:0;python manage.py makemigrations --merge
+: 1706814179:0;python manage.py migrate
+: 1706814179:0;git switch bugfix/minor_bugs
+: 1706814179:0;git rebase nightingale_dev
+: 1706814179:0;git push
+: 1706814179:0;c
+: 1706814179:0;git push --force
+: 1706814179:0;python manage.py showmigrations
+: 1706814179:0;c
+: 1706814179:0;git switch nightingale_dev
+: 1706814179:0;git pull
+: 1706814179:0;git branch --sort=-committerdate
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-3-82-145-105.compute-1.amazonaws.com
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-44-211-201-248.compute-1.amazonaws.com
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;git switch nightingale_staging
+: 1706814179:0;git pull
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;pg_ctl -D /usr/local/var/postgres start
+: 1706814179:0;git stash
+: 1706814179:0;git switch feature/cancelled_card
+: 1706814179:0;git stash pop
+: 1706814179:0;git switch nightingale_dev
+: 1706814179:0;git pull
+: 1706814179:0;git switch feature/cancelled_card
+: 1706814179:0;git push
+: 1706814179:0;c
+: 1706814179:0;git push
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-44-211-201-248.compute-1.amazonaws.com
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-3-82-145-105.compute-1.amazonaws.com
+: 1706814179:0;c
+: 1706814179:0;git push
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-3-82-145-105.compute-1.amazonaws.com
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-44-211-201-248.compute-1.amazonaws.com
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-3-82-145-105.compute-1.amazonaws.com
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-44-211-201-248.compute-1.amazonaws.com
+: 1706814179:0;pg_ctl -D /usr/local/var/postgres start
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;git stash
+: 1706814179:0;git switch nightingale_dev
+: 1706814179:0;git pull
+: 1706814179:0;git checkout -b feature/company_client_id
+: 1706814179:0;git stash pop
+: 1706814179:0;python manage.py makemigrations
+: 1706814179:0;git stash
+: 1706814179:0;git switch nightingale_dev
+: 1706814179:0;git pull
+: 1706814179:0;python manage.py migrate
+: 1706814179:0;python manage.py makemigrations
+: 1706814179:0;git branch --sort=-committerdate
+: 1706814179:0;git switch feature/company_client_id
+: 1706814179:0;git stash pop
+: 1706814179:0;python manage.py makemigrations
+: 1706814179:0;python manage.py migrate
+: 1706814179:0;с
+: 1706814179:0;c
+: 1706814179:0;git lol
+: 1706814179:0;git push
+: 1706814179:0;git push --set-upstream origin feature/company_client_id
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-44-211-201-248.compute-1.amazonaws.com
+: 1706814179:0;git switch nightingale_dev
+: 1706814179:0;git pull
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;git branch --sort=-committerdate
+: 1706814179:0;git switch nightingale_staging
+: 1706814179:0;git pull
+: 1706814179:0;git switch nightingale_master
+: 1706814179:0;git pull
+: 1706814179:0;git switch nightingale_dev
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;pg_ctl -D /usr/local/var/postgres start
+: 1706814179:0;python manage.py shell
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-3-82-145-105.compute-1.amazonaws.com
+: 1706814179:0;c
+: 1706814179:0;python manage.py makemigrations
+: 1706814179:0;git stash
+: 1706814179:0;git pull
+: 1706814179:0;git branch --sort=-committerdate
+: 1706814179:0;git switch feature/company_client_id
+: 1706814179:0;git switch nightingale_dev
+: 1706814179:0;git pull
+: 1706814179:0;git checkout -b feature/accessing_old_AR_reports
+: 1706814179:0;git stash pop
+: 1706814179:0;python manage.py makemigrations
+: 1706814179:0;git stash
+: 1706814179:0;git switch feature/company_client_id
+: 1706814179:0;python manage.py makemigrations
+: 1706814179:0;git push
+: 1706814179:0;git switch nightingale_dev
+: 1706814179:0;git pull
+: 1706814179:0;git branch --sort=-committerdate
+: 1706814179:0;git switch feature/accessing_old_AR_reports
+: 1706814179:0;git stash pop
+: 1706814179:0;python manage.py makemigrations
+: 1706814179:0;git stash
+: 1706814179:0;git switch nightingale_staging
+: 1706814179:0;git switch feature/accessing_old_AR_reports
+: 1706814179:0;git stash pop
+: 1706814179:0;python manage.py makemigrations
+: 1706814179:0;git rebase nightingale_dev
+: 1706814179:0;git stash
+: 1706814179:0;git rebase nightingale_dev
+: 1706814179:0;git stash pop
+: 1706814179:0;python manage.py makemigrations
+: 1706814179:0;python manage.py migrate
+: 1706814179:0;git push
+: 1706814179:0;git push --set-upstream origin feature/accessing_old_AR_reports
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-44-211-201-248.compute-1.amazonaws.com
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-3-82-145-105.compute-1.amazonaws.com
+: 1706814179:0;git switch nightingale_dev
+: 1706814179:0;git pull
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-3-82-145-105.compute-1.amazonaws.com
+: 1706814179:0;scp -i ~/.ssh/nightingale-key.pem ubuntu@ec2-3-82-145-105.compute-1.amazonaws.com:/var/www/firstchoice-web/debug.log ./debug.log
+: 1706814179:0;scp -i ~/.ssh/nightingale-key.pem ubuntu@ec2-3-82-145-105.compute-1.amazonaws.com:/var/www/firstchoice-web/firstchoice/root_logging/logs/main.log ./main.log
+: 1706814179:0;c
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;git switch bugfix/minor_bugs
+: 1706814179:0;git stash
+: 1706814179:0;git switch bugfix/minor_bugs
+: 1706814179:0;git rebase nightingale_dev
+: 1706814179:0;git stash pop
+: 1706814179:0;git push
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-3-82-145-105.compute-1.amazonaws.com
+: 1706814179:0;pg_ctl -D /usr/local/var/postgres start
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-44-211-201-248.compute-1.amazonaws.com
+: 1706814179:0;pip list --format=freeze
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-3-82-145-105.compute-1.amazonaws.com
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-3-82-145-105.compute-1.amazonaws.com
+: 1706814179:0;c
+: 1706814179:0;git push
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-44-211-201-248.compute-1.amazonaws.com
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-3-82-145-105.compute-1.amazonaws.com
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-3-82-145-105.compute-1.amazonaws.com
+: 1706814179:0;c
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;git switch nightingale_dev
+: 1706814179:0;git pull
+: 1706814179:0;git stash
+: 1706814179:0;git pull
+: 1706814179:0;git switch bugfix/minor_bugs
+: 1706814179:0;git stash pop
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;pg_ctl -D /usr/local/var/postgres start
+: 1706814179:0;с
+: 1706814179:0;c
+: 1706814179:0;git reset --soft HEAD^1
+: 1706814179:0;c
+: 1706814179:0;git push
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-3-82-145-105.compute-1.amazonaws.com
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-44-211-201-248.compute-1.amazonaws.com
+: 1706814179:0;scp -i ~/.ssh/nightingale-key.pem ubuntu@ec2-3-82-145-105.compute-1.amazonaws.com:/var/www/firstchoice-web/debug.log ./debug.log
+: 1706814179:0;pg_ctl -D /usr/local/var/postgres start
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;git push
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-3-82-145-105.compute-1.amazonaws.com
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-44-211-201-248.compute-1.amazonaws.com
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;pg_ctl -D /usr/local/var/postgres start
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-3-82-145-105.compute-1.amazonaws.com
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;/Users/home/nyckolas/firstchoice-web/venv/bin/python
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;c
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;git push
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-44-211-201-248.compute-1.amazonaws.com
+: 1706814179:0;git switch nightingale_dev
+: 1706814179:0;git pull
+: 1706814179:0;c
+: 1706814179:0;git branch --sort=-committerdate
+: 1706814179:0;git checkout -b feature/DNR_tracking
+: 1706814179:0;git push
+: 1706814179:0;git push --set-upstream origin feature/DNR_tracking
+: 1706814179:0;c
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-44-211-201-248.compute-1.amazonaws.com
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;pg_ctl -D /usr/local/var/postgres start
+: 1706814179:0;git switch nightingale_dev
+: 1706814179:0;git pull
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;git checkout -b feature/display_upcoming_shifts_events
+: 1706814179:0;git branch --sort=-committerdate
+: 1706814179:0;git push
+: 1706814179:0;git push --set-upstream origin feature/display_upcoming_shifts_events
+: 1706814179:0;git stash
+: 1706814179:0;git switch nightingale_dev
+: 1706814179:0;git pull
+: 1706814179:0;git checkout -b feature/redesign_theme_rebrand_logo_name
+: 1706814179:0;git stash pop
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-44-211-201-248.compute-1.amazonaws.com
+: 1706814179:0;c
+: 1706814179:0;git reset --soft HEAD^1
+: 1706814179:0;c
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-3-82-145-105.compute-1.amazonaws.com
+: 1706814179:0;git push
+: 1706814179:0;git push --set-upstream origin feature/redesign_theme_rebrand_logo_name
+: 1706814179:0;git push
+: 1706814179:0;git commit --amend
+: 1706814179:0;git push
+: 1706814179:0;git branch --sort=-committerdate
+: 1706814179:0;git switch nightingale_master
+: 1706814179:0;git pull
+: 1706814179:0;git switch bugfix/hot_fixes
+: 1706814179:0;git rebase nightingale_master
+: 1706814179:0;git stash
+: 1706814179:0;git switch nightingale_dev
+: 1706814179:0;git pull
+: 1706814179:0;git switch bugfix/minor_bugs
+: 1706814179:0;git rebase nightingale_dev
+: 1706814179:0;git stash pop
+: 1706814179:0;git push
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-3-82-145-105.compute-1.amazonaws.com
+: 1706814179:0;git lol
+: 1706814179:0;git push
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-3-82-145-105.compute-1.amazonaws.com
+: 1706814179:0;git stash
+: 1706814179:0;git branch --sort=-committerdate
+: 1706814179:0;git switch feature/redesign_theme_rebrand_logo_name
+: 1706814179:0;git stash pop
+: 1706814179:0;,c
+: 1706814179:0;c
+: 1706814179:0;git push
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-44-211-201-248.compute-1.amazonaws.com
+: 1706814179:0;pg_ctl -D /usr/local/var/postgres start
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;c
+: 1706814179:0;git lol
+: 1706814179:0;c
+: 1706814179:0;git push
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-44-211-201-248.compute-1.amazonaws.com
+: 1706814179:0;cd ~/nyckolas/
+: 1706814179:0;ls
+: 1706814179:0;git clone git@github.com:nyckolas-python/hackerrank-challenge.git
+: 1706814179:0;cd ~/nyckolas/hackerrank-challenge
+: 1706814179:0;code ~/nyckolas/hackerrank-challenge/tic_tac_toe_checker.py
+: 1706814179:0;touch ~/nyckolas/hackerrank-challenge/tic_tac_toe_checker.py
+: 1706814179:0;code ~/nyckolas/hackerrank-challenge/tic_tac_toe_checker.py
+: 1706814179:0;ls
+: 1706814179:0;mv ./tic_tac_toe_checker.py ./Python
+: 1706814179:0;ls
+: 1706814179:0;cd Python
+: 1706814179:0;ls
+: 1706814179:0;code ~/nyckolas/hackerrank-challenge/Python/tic_tac_toe_checker.py
+: 1706814179:0;git push
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;c
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;git stash
+: 1706814179:0;git switch nightingale_dev
+: 1706814179:0;git pull
+: 1706814179:0;git checkout -b feature/reliability_rating
+: 1706814179:0;git stash
+: 1706814179:0;git stash pop
+: 1706814179:0;git stash
+: 1706814179:0;git switch feature/redesign_theme_rebrand_logo_name
+: 1706814179:0;git stash pop
+: 1706814179:0;git stash
+: 1706814179:0;git branch --sort=-committerdate
+: 1706814179:0;git switch feature/reliability_rating
+: 1706814179:0;git push
+: 1706814179:0;git push --set-upstream origin feature/reliability_rating
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-44-211-201-248.compute-1.amazonaws.com
+: 1706814179:0;git push
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-44-211-201-248.compute-1.amazonaws.com
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-3-82-145-105.compute-1.amazonaws.com
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;git switch feature/redesign_theme_rebrand_logo_name
+: 1706814179:0;git stash pop
+: 1706814179:0;git push
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-3-82-145-105.compute-1.amazonaws.com
+: 1706814179:0;git switch nightingale_dev
+: 1706814179:0;git pull
+: 1706814179:0;git push
+: 1706814179:0;git commit --amend
+: 1706814179:0;git push --force
+: 1706814179:0;git push
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-3-82-145-105.compute-1.amazonaws.com
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-3-82-145-105.compute-1.amazonaws.com
+: 1706814179:0;git pull
+: 1706814179:0;git checkout -b feature/reliability_rating_app_
+: 1706814179:0;git branch -m feature/reliability_rating_app_ feature/reliability_rating_app
+: 1706814179:0;c
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;/Users/home/nyckolas/firstchoice-web/venv/bin/python
+: 1706814179:0;c
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;git stash
+: 1706814179:0;git switch bugfix/minor_bugs
+: 1706814179:0;git rebase nightingale_dev
+: 1706814179:0;git push
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-3-82-145-105.compute-1.amazonaws.com
+: 1706814179:0;git switch feature/reliability_rating_app
+: 1706814179:0;git push
+: 1706814179:0;git push --set-upstream origin feature/reliability_rating_app
+: 1706814179:0;git rebase nightingale_dev
+: 1706814179:0;git switch nightingale_dev
+: 1706814179:0;git pull
+: 1706814179:0;git rebase nightingale_dev
+: 1706814179:0;git switch feature/reliability_rating_app
+: 1706814179:0;git rebase nightingale_dev
+: 1706814179:0;git push
+: 1706814179:0;git stash pop
+: 1706814179:0;git push
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-44-211-201-248.compute-1.amazonaws.com
+: 1706814179:0;git switch nightingale_dev
+: 1706814179:0;git stash
+: 1706814179:0;git switch bugfix/minor_bugs
+: 1706814179:0;git switch nightingale_dev
+: 1706814179:0;git checkout -b feature/facility_calendar_filter
+: 1706814179:0;git stash pop
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-3-82-145-105.compute-1.amazonaws.com
+: 1706814179:0;scp -i ~/.ssh/nightingale-key.pem ubuntu@ec2-3-82-145-105.compute-1.amazonaws.com:~/.bash_history ./prod_bash_history.log
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-3-82-145-105.compute-1.amazonaws.com
+: 1706814179:0;c
+: 1706814179:0;с
+: 1706814179:0;c
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;c
+: 1706814179:0;git lol
+: 1706814179:0;git commit --amend
+: 1706814179:0;c
+: 1706814179:0;git push
+: 1706814179:0;git push --set-upstream origin feature/facility_calendar_filter
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-44-211-201-248.compute-1.amazonaws.com
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-3-82-145-105.compute-1.amazonaws.com
+: 1706814179:0;c
+: 1706814179:0;git branch --sort=-committerdate
+: 1706814179:0;git switch feature/reliability_rating_app
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;nano ~/.bash_history
+: 1706814179:0;nano ~/.
+: 1706814179:0;nano ~/.zsh_hi*
+: 1706814179:0;pg_ctl -D /usr/local/var/postgres start
+: 1706814179:0;git stash
+: 1706814179:0;git branch --sort=-committerdate
+: 1706814179:0;git switch feature/reliability_rating
+: 1706814179:0;git stash pop
+: 1706814179:0;c
+: 1706814179:0;git push
+: 1706814179:0;git switch feature/reliability_rating_app
+: 1706814179:0;git push
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-44-211-201-248.compute-1.amazonaws.com
+: 1706814179:0;git switch feature/redesign_theme_rebrand_logo_name
+: 1706814179:0;git branch --sort=-committerdate
+: 1706814179:0;git push
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-44-211-201-248.compute-1.amazonaws.com
+: 1706814179:0;clear
+: 1706814179:0;git switch nightingale_dev
+: 1706814179:0;nano ~/.ssh/id_ed25519.pub
+: 1706814179:0;omz update
+: 1706814179:0;pg_ctl -D /usr/local/var/postgres start
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;git checkout -b bugfix/minor_bugs
+: 1706814179:0;git switch bugfix/minor_bugs
+: 1706814179:0;git lol
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-3-82-145-105.compute-1.amazonaws.com
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-44-211-201-248.compute-1.amazonaws.com
+: 1706814179:0;c
+: 1706814179:0;git stash
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;git branch --sort=-committerdate
+: 1706814179:0;git switch feature/facility_calendar_filter
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;git push
+: 1706814179:0;git switch nightingale_dev
+: 1706814179:0;git checkout -b feature/all_employee_report
+: 1706814179:0;git push
+: 1706814179:0;git push --set-upstream origin feature/all_employee_report
+: 1706814179:0;git branch --sort=-committerdate
+: 1706814179:0;git switch feature/facility_calendar_filter
+: 1706814179:0;git lol
+: 1706814179:0;git push
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-44-211-201-248.compute-1.amazonaws.com
+: 1706814179:0;git lol
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-3-82-145-105.compute-1.amazonaws.com
+: 1706814179:0;git switch nightingale_dev
+: 1706814179:0;git pull
+: 1706814179:0;git switch bugfix/minor_bugs
+: 1706814179:0;git pull
+: 1706814179:0;git push
+: 1706814179:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-44-211-201-248.compute-1.amazonaws.com
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;git config
+: 1706814179:0;git config --local
+: 1706814179:0;git config --system
+: 1706814179:0;git config --global,
+: 1706814179:0;git config --global
+: 1706814179:0;git config --list
+: 1706814179:0;git config --global --list
+: 1706814179:0;git config --system --list
+: 1706814179:0;git config --global --list
+: 1706814179:0;git config --show-origin --get-regexp pull
+: 1706814179:0;nano ~/.git/config
+: 1706814179:0;git config --show-origin --get-regexp pull
+: 1706814179:0;cd ~
+: 1706814179:0;lsa
+: 1706814179:0;cd .oh-my-zsh
+: 1706814179:0;git pull
+: 1706814179:0;git stash
+: 1706814179:0;git pull
+: 1706814179:0;git stash pop
+: 1706814179:0;cd ~
+: 1706814179:0;code ~/.zshrc
+: 1706814179:0;nano ~/.zshrc
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;git clone https://github.com/zsh-users/zsh-history-substring-search ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-history-substring-search
+: 1706814179:0;git clone https://github.com/zdharma-continuum/fast-syntax-highlighting.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/plugins/fast-syntax-highlighting
+: 1706814179:0;git clone --depth 1 -- https://github.com/marlonrichert/zsh-autocomplete.git $ZSH_CUSTOM/plugins/zsh-autocomplete
+: 1706814179:0;exec zsh
+: 1706814179:0;ource /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;compaudit
+: 1706814179:0;chmod g-w /Users/home/.oh-my-zsh/custom/plugins
+: 1706814179:0;compaudit
+: 1706814179:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814179:0;compaudit | xargs chmod g-w
+: 1706814179:0;exec zsh
+: 1706813962:0;nano ~/.zshrc
+: 1706814179:0;exec zsh
+: 1706814368:0;compaudit | xargs chmod g-w,o-w
+: 1706814385:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814508:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814508:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814508:0;deactivate
+: 1706814508:0;cd ~
+: 1706814508:0;ls -lsa
+: 1706814508:0;uninstall_oh_my_zsh
+: 1706814508:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706814432:0;nano ~/.zshrc
+: 1706814508:0;exec zsh
+: 1706814640:0;c
+: 1706814921:0;exec zsh
+: 1706815063:0;htop
+: 1706815074:0;top
+: 1706815128:0;history
+: 1706815133:0;c
+: 1706815530:0;git config --show-origin --get-regexp pull
+: 1706873724:0;c
+: 1706873740:0;source /Users/home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706873944:0;git push
+: 1706874020:0;nano ~/.zshrc
+: 1706874070:0;exec zsh
+: 1706874082:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-3-82-145-105.compute-1.amazonaws.com
+: 1706874694:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-44-211-201-248.compute-1.amazonaws.com
+: 1706875278:0;pg_ctl -D /usr/local/var/postgres start
+: 1706876070:0;sudo su postgres
+: 1706876158:0;psql -U nigtingale
+: 1706876198:0;psql -U nightingale
+: 1706876320:0;pg_dump nightingale > nightingale_dev.dump
+: 1706876447:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-44-211-201-248.compute-1.amazonaws.com
+: 1706877024:0;scp -i ~/.ssh/nightingale-key.pem ubuntu@ec2-44-211-201-248.compute-1.amazonaws.com:/tmp/nightingale_staging.dump ~/nyckolas/nightingale_staging.dump
+: 1706872685:0;lsa
+: 1706872922:0;clear
+: 1706872933:0;source /home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706873150:0;exec zsh
+: 1706873208:0;git switch nightingale_dev
+: 1706873214:0;git pull
+: 1706873272:0;lsa ~/.ssh/
+: 1706879013:0;sudo apt-get install build-essential checkinstall
+: 1706879033:0;deactivate
+: 1706879140:0;clear
+: 1706879232:0;sudo apt-get install libreadline-gplv2-dev libncursesw5-dev libssl-dev \\
+    libsqlite3-dev tk-dev libgdbm-dev libc6-dev libbz2-dev libffi-dev zlib1g-dev
+: 1706879259:0;sudo apt update && sudo apt upgrade -y
+: 1706879294:0;cd /opt
+: 1706879303:0;sudo wget https://www.python.org/ftp/python/3.9.2/Python-3.9.2.tgz
+: 1706879344:0;sudo tar xzf Python-3.9.2.tgz
+: 1706879352:0;cd Python-3.9.2
+: 1706879360:0;sudo ./configure  �enable-optimizations
+: 1706879582:0;sudo make altinstall
+: 1706879813:0;cd ..
+: 1706879843:0;rm -rf Python-3.9.2
+: 1706879851:0;sudo rm -rf Python-3.9.2
+: 1706879864:0;lsa
+: 1706879877:0;sudo rm Python-3.9.2.tgz
+: 1706879880:0;lsa
+: 1706879885:0;cd ~
+: 1706879900:0;sudo add-apt-repository ppa:deadsnakes/ppa
+: 1706879928:0;sudo apt update
+: 1706879952:0;sudo apt install python3.9
+: 1706880051:0;sudo �apt-get install python3.9-dev python3.9-venv
+: 1706880066:0;sudo�apt-get install python3.9-dev python3.9-venv
+: 1706880109:0;sudo apt install python3.9-dev python3.9-venv
+: 1706880157:0;cd firstchoice-web
+: 1706880162:0;python3.9 -m venv venv
+: 1706880173:0;source /home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706881110:0;python -V
+: 1706881126:0;pip install -r requirements.txt
+: 1706881339:0;pip install python-dotenv
+: 1706881359:0;source /home/nyckolas/firstchoice-web/venv/bin/activate
+: 1706881459:0;python manage.py migrate
+: 1706885235:0;code ./.git/config
+: 1706885269:0;lsa ./.git/config
+: 1706885276:0;lsa ./.git/
+: 1706885296:0;git pull
+: 1706885339:0;cat ./.git/config
+: 1706885397:0;lsa ~/.ssh/
+: 1706885423:0;nano ~/.ssh/config
+: 1706885482:0;git pull
+: 1706885510:0;cd ~
+: 1706885511:0;lsa
+: 1706885527:0;git clone https://labish88@bitbucket.org/Stack-of-Pancakes/firstchoice-web.git
+: 1706885545:0;mkdir temp
+: 1706885550:0;cd temp
+: 1706885554:0;git clone https://labish88@bitbucket.org/Stack-of-Pancakes/firstchoice-web.git
+: 1706885603:0;cd ~/firstchoice-web
+: 1706885612:0;git pull
+: 1706885720:0;nano ~ /. gitconfig
+: 1706885734:0;nano ~/.gitconfig
+: 1706886529:0;nano ~/.ssh/known_hosts
+: 1706886736:0;git config --global credential.helper cache
+: 1706886770:0;git config --global credential.helper 'cache --timeout=3600'
+: 1706887021:0;git config --global url."git@bitbucket.org:".insteadOf "https://bitbucket.org/"
+: 1706887031:0;git pull
+: 1706887345:0;ssh -T git@bitbucket.org
+: 1706894308:0;с
+: 1706894313:0;c
+: 1707049534:0;git config user.email
+: 1707049693:0;ssh -T git@bitbucket.org
+: 1707045352:0;cd ~/.ssh/
+: 1707045353:0;lsa
+: 1707045480:0;chmod 644 ~/.ssh/config
+: 1707045500:0;lsa
+: 1707045670:0;chmod 600 ~/.ssh/id_rsa
+: 1707045697:0;chmod 600 ~/.ssh/id_ed25519
+: 1707045703:0;chmod 600 ~/.ssh/id_rsa_2
+: 1707045778:0;chmod 644 ~/.ssh/id_rsa_2.pub
+: 1707045783:0;chmod 644 ~/.ssh/id_rsa.pub
+: 1707045794:0;chmod 644 ~/.ssh/id_ed25519.pub
+: 1707045798:0;lsa
+: 1707045834:0;cat ._config
+: 1707045868:0;sudo rm ._*
+: 1707045874:0;lsa
+: 1707045988:0;cd ~/firstchoice-web
+: 1707045995:0;git pull
+: 1707046086:0;cd ~
+: 1707046155:0;sudo rm -rf firstchoice-web 
+: 1707046172:0;git clone https://labish88@bitbucket.org/Stack-of-Pancakes/firstchoice-web.git
+: 1707046192:0;git config user.email
+: 1707046286:0;git config --global --list
+: 1707046342:0;code ~/.gitconfig
+: 1707046396:0;code ~/.gitignore
+: 1707046530:0;code
+: 1707046681:0;cat ~/.gitconfig
+: 1707046793:0;nano ~/.gitconfig
+: 1707046977:0;rm -rf .local
+: 1707046979:0;lsa
+: 1707047008:0;git clone https://labish88@bitbucket.org/Stack-of-Pancakes/firstchoice-web.git
+: 1707047265:0;git config --global user.name "nyckolas"
+: 1707047289:0;git config --list
+: 1707047360:0;rm ~/.ssh/config
+: 1707047365:0;git clone https://labish88@bitbucket.org/Stack-of-Pancakes/firstchoice-web.git
+: 1707047540:0;git remote set-url origin git@bitbucket.org:Stack-of-Pancakes/firstchoice-web.git
+: 1707047775:0;cd ~
+: 1707047780:0;git clone https://labish88@bitbucket.org/Stack-of-Pancakes/firstchoice-web.git
+: 1707048072:0;git switch nightingale_dev
+: 1707048076:0;git pull
+: 1707050074:0;cd ~
+: 1707050097:0;sudo rm -rf firstchoice-web
+: 1707050110:0;git clone https://labish88@bitbucket.org/Stack-of-Pancakes/firstchoice-web.git
+: 1707050121:0;git init
+: 1707050139:0;git clone https://labish88@bitbucket.org/Stack-of-Pancakes/firstchoice-web.git
+: 1707050166:0;cd /home/nyckolas/.git/
+: 1707050168:0;lsa
+: 1707050212:0;cat config
+: 1707050282:0;cd ~
+: 1707050290:0;git st
+: 1707050334:0;sudo rm -rf .git
+: 1707050337:0;lsa
+: 1707050340:0;git st
+: 1707050368:0;cd .cache
+: 1707050369:0;lsa
+: 1707050385:0;cd ~
+: 1707050394:0;sudo rm -rf .cache
+: 1707050395:0;lsa
+: 1707050471:0;sudo rm -rf .local .config temp .dotnet
+: 1707050483:0;cd hackerrank-challenge
+: 1707050486:0;git pull
+: 1707050649:0;eval "$(ssh-agent -s)"
+: 1707050657:0;git pull
+: 1707050714:0;ssh-add ~/.ssh/id_ed25519
+: 1707050735:0;ssh-add ~/.ssh/id_rsa
+: 1707050749:0;ssh-add ~/.ssh/id_rsa_2
+: 1707051383:0;cd ~/firstchoice-web
+: 1707051401:0;sudo rm -fr venv
+: 1707051518:0;git switch nightingale_dev
+: 1707051571:0;sudo rm -rf  ~/firstchoice-web
+: 1707051589:0;cd ~ 
+: 1707051593:0;git clone https://labish88@bitbucket.org/Stack-of-Pancakes/firstchoice-web.git
+: 1707051643:0;ssh-add ~/.ssh/id_rsa
+: 1707051660:0;eval "$(ssh-agent -s)"
+: 1707051665:0;ssh-add ~/.ssh/id_rsa
+: 1707051677:0;ssh-add ~/.ssh/id_ed25519
+: 1707051690:0;ssh-add ~/.ssh/id_rsa_2
+: 1707051786:0;git clone https://labish88@bitbucket.org/Stack-of-Pancakes/firstchoice-web.git
+: 1707051798:0;lsa
+: 1707051814:0;sudo rm -rf  firstchoice-web
+: 1707051817:0;git clone https://labish88@bitbucket.org/Stack-of-Pancakes/firstchoice-web.git
+: 1707051878:0;cd firstchoice-web
+: 1707051883:0;git switch nightingale_dev
+: 1707051891:0;git pull
+: 1707051927:0;cd ~/.ssh/
+: 1707051928:0;lsa
+: 1707051996:0;cd ~/firstchoice-web
+: 1707052001:0;git st
+: 1707052008:0;git pull
+: 1707052108:0;ssh-add ~/.ssh/id_rsa
+: 1707052131:0;eval "$(ssh-agent -s)"
+: 1707052143:0;ssh-add ~/.ssh/id_rsa
+: 1707052153:0;git pull
+: 1707052543:0;ssh-add ~/.ssh/id_ed25519
+: 1707052603:0;nano ~/.ssh/config
+: 1707052679:0;cat ~/.ssh/id_ed25519.pub
+: 1707052721:0;curl https://bitbucket.org/site/ssh
+: 1707052807:0;nano ~/.ssh/known_hosts
+: 1707053003:0;git pull
+: 1707053103:0;curl https://bitbucket.org/site/ssh
+: 1707053186:0;nano ~/.ssh/known_hosts
+: 1707053204:0;git pull
+: 1707053216:0;cd ~
+: 1707053225:0;sudo rm -rf  firstchoice-web
+: 1707053232:0;git clone https://labish88@bitbucket.org/Stack-of-Pancakes/firstchoice-web.git
+: 1707053244:0;eval "$(ssh-agent -s)"
+: 1707053249:0;ssh-add ~/.ssh/id_ed25519
+: 1707053267:0;git clone https://labish88@bitbucket.org/Stack-of-Pancakes/firstchoice-web.git
+: 1707053354:0;ssh -T git@bitbucket.org
+: 1707053409:0;git clone https://labish88@bitbucket.org/Stack-of-Pancakes/firstchoice-web.git
+: 1707053457:0;git clone git@bitbucket.org:Stack-of-Pancakes/firstchoice-web.git
+: 1707053489:0;cd ~/firstchoice-web
+: 1707053494:0;git switch nightingale_dev
+: 1707053497:0;git pull
+: 1707053880:0;python3.9 -m venv venv
+: 1707053892:0;source /home/nyckolas/firstchoice-web/venv/bin/activate
+: 1707053920:0;pip install -r requirements.txt
+: 1707054350:0;source /home/nyckolas/firstchoice-web/venv/bin/activate
+: 1707054358:0;с
+: 1707054362:0;c
+: 1707054539:0;source /home/nyckolas/firstchoice-web/venv/bin/activate
+: 1707055148:0;code ~/.zshrc
+: 1707068517:0;code requirements.txt
+: 1707068849:0;sudo apt update
+: 1707068879:0;sudo apt list --upgradable
+: 1707068922:0;code
+: 1707068932:0;code -a
+: 1707068940:0;code
+: 1707068955:0;clear
+: 1707068977:0;code ~/.zshrc
+: 1707069082:0;lsa
+: 1707069124:0;sudo rm -rf .vscode*
+: 1707069219:0;sudo rm -rf .local .cache
+: 1707069233:0;sudo rm .lesshst
+: 1707069235:0;lsa
+: 1707069586:0;code ~/.zshrc
+: 1707070081:0;exec zsh
+: 1707070088:0;code ~/.zshrc
+: 1707070176:0;exec zsh
+: 1707070180:0;code ~/.zshrc
+: 1707070298:0;exec zsh
+: 1707070306:0;code ~/.zshrc
+: 1707070590:0;с
+: 1707070644:0;c
+: 1707070972:0;source /home/nyckolas/firstchoice-web/venv/bin/activate
+: 1707071267:0;pip install importlib-metadata
+: 1707071277:0;pip install --upgrade pip
+: 1707071298:0;source /home/nyckolas/firstchoice-web/venv/bin/activate
+: 1707155295:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-44-211-201-248.compute-1.amazonaws.com
+: 1707156552:0;ssh -i "~/.ssh/new-ubuntu.pem" ubuntu@ec2-3-88-23-100.compute-1.amazonaws.com
+: 1707157034:0;ssh -i "~/.ssh/remote-dev.pem" ubuntu@ec2-3-88-23-100.compute-1.amazonaws.com
+: 1707157064:0;source /home/nyckolas/firstchoice-web/venv/bin/activate
+: 1707157078:0;code ~/.zsh_history
+: 1707157143:0;lsa ~
+: 1707157162:0;code ~/.zsh_history_2
+: 1707157305:0;code ~/.bash_history
+: 1707158183:0;source /home/nyckolas/firstchoice-web/venv/bin/activate
+: 1707158197:0;ssh -i "~/.ssh/nightingale-key.pem" ubuntu@ec2-44-211-201-248.compute-1.amazonaws.com
+: 1707201578:0;с
+: 1707201580:0;c
+: 1707201608:0;code ~/.zshrc
+: 1707201665:0;code ~/.zsh_aliases
+: 1707201740:0;exec zsh
+: 1707201745:0;с
+: 1707201937:0;exec zsh
+: 1707201942:0;code ~/.zsh_aliases
+: 1707201964:0;ll
+: 1707202681:0;sudo apt update && sudo apt upgrade -y
+: 1707202876:0;c
+: 1707202909:0;exec zsh
+: 1707203064:0;ssh -i "~/.ssh/remote-dev.pem" ubuntu@ec2-3-88-23-100.compute-1.amazonaws.com
+: 1707215322:0;history
+: 1707215376:0;ssh -i "~/.ssh/remote-dev.pem" ubuntu@ec2-3-88-23-100.compute-1.amazonaws.com
+: 1707216562:0;git clone git@github.com:nyckolas-python/unix-config.git
+: 1707216613:0;cd ~/unix-config
+: 1707216982:0;touch .zsh_history
+: 1707216996:0;nano .zsh_history

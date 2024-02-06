@@ -1,0 +1,14 @@
+.vscode/*
+build/*
+.idea/*
+**/.idea/workspace.xml
+**/.idea/tasks.xml
+**/base.py
+settings/base.py
+.DS_Store
+._* 
+.Spotlight-V100
+.Trashes
+.fseventsd
+.DocumentRevisions-V100
+__MACOSX/

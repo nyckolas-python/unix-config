@@ -1,0 +1,29 @@
+[user]
+	name = nyckolas
+	email = nyckolas.python@gmail.com
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[init]
+	defaultBranch = main
+[core]
+	editor = nano
+	excludesFile = ~/.gitignore
+[credential "helperselector"]
+	selected = <no helper>
+[alias]
+    p = push
+    ci = commit
+    co = checkout
+    br = branch
+    st = status
+    lol = log --graph --decorate --pretty=oneline --abbrev-commit
+    unstage = reset HEAD --
+    di = diff
+    cma = commit -a -m
+    cm = commit -m
+    nb = checkout -b
+    hist = "log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)' --all" 
+    grog = "log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold cyan)%aD%C(reset) %C(bold green)(%ar)%C(reset)%C(bold yellow)%d%C(reset)%n''          %C(white)%s%C(reset) %C(dim white)- %an%C(reset)' --all"
