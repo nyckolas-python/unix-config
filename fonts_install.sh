@@ -11,7 +11,7 @@ declare -a fonts=(
 #    Hermit
     JetBrainsMono
 #    Meslo
-    Noto
+#    Noto
 #    Overpass
 #    ProggyClean
     RobotoMono
@@ -34,7 +34,7 @@ for font in "${fonts[@]}"; do
     echo "Downloading $download_url"
     wget "$download_url"
     unzip "$zip_file" -d "$fonts_dir"
-    find $fonts_dir -not -name "*.ttf" -not -name "*.otf" --delete
+    find "$fonts_dir" -type f ! -name "*.ttf" ! -name "*.otf" -delete
     rm "$zip_file"
 done
 

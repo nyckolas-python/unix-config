@@ -62,7 +62,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 - Run the `fonts_install.sh` script to copy ligatures fonts to your home directory
 
 ```bash
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/nyckolas-python/unix-config/main/fonts_install.sh)"
+curl -fsSL https://raw.githubusercontent.com/nyckolas-python/unix-config/refs/heads/main/fonts_install.sh | bash
 ```
 
 ## Clone the Powerlevel10k Zsh theme
@@ -95,6 +95,12 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/p
 git clone https://github.com/zdharma-continuum/fast-syntax-highlighting.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/plugins/fast-syntax-highlighting
 ```
 
+- zsh-history-substring-search
+
+```bash
+ git clone https://github.com/zsh-users/zsh-history-substring-search ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-history-substring-search
+```
+
 - Open the `.zshrc` file for editing
 
 ```bash
@@ -105,7 +111,7 @@ nano ~/.zshrc
 - Replace that line with
 
 ```bash
-plugins=(git zsh-autosuggestions zsh-syntax-highlighting fast-syntax-highlighting)`
+plugins=(git zsh-autosuggestions zsh-syntax-highlighting fast-syntax-highlighting zsh-history-substring-search)`
 ```
 
 - Reload Zsh shell
